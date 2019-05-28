@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "851443174905",
+    "firebase_url": "https://stock-sir.firebaseio.com",
+    "project_id": "stock-sir",
+    "storage_bucket": "stock-sir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851443174905:android:9bc30576321c0440",
+        "android_client_info": {
+          "package_name": "com.example.stock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851443174905-khfp8obvo6lkhe6hak1hvh3n0o18j669.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQA-X6-xeW1jiVeFF1CC4W_Eb_vwovV3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851443174905-khfp8obvo6lkhe6hak1hvh3n0o18j669.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
